@@ -1,2 +1,2 @@
 # myFirstRepo
-getting to know the git workflow
+Getting to know the git workflow
