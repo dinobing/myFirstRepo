@@ -3,6 +3,8 @@ Getting to know the git workflow
 <br/>
 TODO: Add a list of tasks(bullet points)
 <br/>
-- Clone, fork
+- clone, fork
 <br/>
-- commit, add, push
+- add, commit, push
+<br/>
+- pull, merge
