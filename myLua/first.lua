@@ -27,4 +27,6 @@
 			
       print(days[3])
       print("Adding this for testing commit and push")
+
+      print("Testing pull from origin")
       
