@@ -1,4 +1,4 @@
 # myFirstRepo
 Getting to know the git workflow
-<br/>
+<br>
 Cheat-sheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf 
